@@ -18,13 +18,11 @@
   #text(size: 12.5pt, style: "italic")[Senior Full Stack Engineer]
 ]
 
-#v(0.5em)
-#align(right)[#datetime.today().display("[month repr:long] [day], [year]")]
-#v(1.5em)
+#v(2.5em)
 
-Senior full-stack engineer with 10+ years of experience on frontend using #link("https://www.typescriptlang.org")[TypeScript] and #link("https://reactjs.org/")[React], and on backend with #link("https://nodejs.org")[Node.js], #link("https://www.rust-lang.org")[Rust] and #link("https://go.dev")[Go].
+I am a senior full-stack engineer with 10+ years of experience on frontend using #link("https://www.typescriptlang.org")[TypeScript] and #link("https://reactjs.org/")[React], and on backend with #link("https://nodejs.org")[Node.js], #link("https://www.rust-lang.org")[Rust] and #link("https://go.dev")[Go].
 
-Since 2015 I have been working on full stack roles related to web software development with multinational teams across wide time zones. Some of the sites I have worked on include the streaming service _#link("https://www.movistarplus.es/")[Movistar Plus+]_, the ecommerce site based in Los Angeles _#link("https://www.thrivemarket.com")[Thrive Market]_ or the site for the design studio _#link("https://linii.group")[Linii]_.
+Since 2015 I have been working on full stack roles related to web software development with multinational teams across wide time zones. Some of the sites I have worked on include the streaming service _#link("https://www.movistarplus.es/")[Movistar Plus+]_ or the ecommerce site based in Los Angeles _#link("https://www.thrivemarket.com")[Thrive Market]_, where I implemented modules for several payment systems.
 
 In 2012 I co-founded _#link("https://www.diazpons.es")[Díaz #sym.amp Pons]_, a publishing house focused on digital and printed editions, where we edited high quality non-fiction books on art and social sciences. There I directed overlapping design and production workflows across 20+ projects, coordinating authors, printers, and distributors, which gave me a strong eye for visual detail and design language.
 
@@ -32,5 +30,9 @@ Recently I have been migrating the _#link("https://www.movistarplus.es/")[Movist
 
 My experience spans Python, JavaScript/TypeScript, Rust, and Go, across both individual contributor and engineering management roles. You can find more information at my site _#link("https://antoniodiaz.me")[www.antoniodiaz.me]_, in my _#link("https://github.com/antoniodcorrea")[GitHub]_ | _#link("https://www.linkedin.com/in/antonio-d%C3%ADaz-correa-b9487828/")[LinkedIn]_, or by writing to _#link("mailto:hello@antoniodiaz.me")[hello\@antoniodiaz.me]_.
 
-#v(1.5em)
+#v(2.5em)
 Antonio Díaz
+
+#v(7.5em)
+#align(right)[#datetime.today().display("[month repr:long] [day], [year]")]
+#v(1.5em)
