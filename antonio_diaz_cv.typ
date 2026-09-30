@@ -110,6 +110,8 @@
 
 #line(length: 100%, stroke: 0.4pt)
 
+#v(1em)
+
 #section-block(
   [Summary],
   title-offset: -2.88pt,
@@ -220,8 +222,6 @@
   title-align: right,
   [
     #proj-heading(title: [Urligram], institution: [Bookmark and #sc[rss] manager. Web client, #sc[API], and browser extensions. Written in Go, Rust and TypeScript.\ #emph(link("https://www.urligram.com")[www.urligram.com]).], time: [])
-    #proj-heading(title: [Transducers], institution:  [Functional programming series at #emph(link("https://www.antoniodiaz.me/blog/functional-javascript-transducers-14")[antoniodiaz.me]).], time: [])
-    #proj-heading(title: [Hexagonal Rust], institution: [Rust #sc[REST] starter kit using hexagonal architecture. #emph(link("https://github.com/antoniodcorrea/rust-api-rest-starter-kit")[github.com]).], time: [])
   ],
 )
 
