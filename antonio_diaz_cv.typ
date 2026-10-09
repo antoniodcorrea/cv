@@ -157,7 +157,7 @@
     #emph(link("https://mosbrew.ru")[www.mosbrew.ru]), #emph(link("https://u.university/")[ww.u.university]), #emph(link("https://linii.group")[www.linii.group]).
 ]
     #intern-heading(company: [#smallcaps[Critik]], location: [Madrid (#sc[ES])], time: [2015 -- 2016])
-    Founder and developer. Online book review platform. Led product vision and development. Built data pipeline built data pipeline against the Biblioteca Nacional de España (BNE) linked open data catalog via #link("https://www.w3.org/TR/rdf-sparql-query/")[#sc[SPARQL]] and #link("https://www.mysql.com/")[#sc[M]y#sc[SQL]]..
+    Founder and developer. Online book review platform. Led product vision and development. Built data pipeline built data pipeline against the Biblioteca Nacional de España (BNE) linked open data catalog via #link("https://www.w3.org/TR/rdf-sparql-query/")[#sc[SPARQL]] and #link("https://www.mysql.com/")[#sc[M]y#sc[SQL]].
 
     #intern-heading(company: [#link("https://www.diazpons.es")[#smallcaps[Díaz \& Pons]]], location: [Madrid (#sc[ES])], time: [2012 -- 2015])
     Founder and editor. Publishing house focused on non-fiction. Directed overlapping design and production workflows across 20+ projects, coordinating authors, printers, and distributors. #emph(link("https://www.diazpons.es")[www.diazpons.es]).
